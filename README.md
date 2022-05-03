@@ -16,10 +16,10 @@ URL Shortner é um encurtador de URLs criado com Python Django, HTML, CSS e SQLi
 
 # Telas
 ### Homepage
-![Homepage]()
+![Homepage](https://github.com/PauloV-Rodrigues/URL-Shortner/blob/main/img-screens/Homepage.png)
 
 ### URL Encurtada
-![Shortned]()
+![Shortned](https://github.com/PauloV-Rodrigues/URL-Shortner/blob/main/img-screens/Shortned.png)
 
 # Contato
 [Linkedin](https://www.linkedin.com/in/ro-paulo/) | [Instagram](https://www.instagram.com/_paulo.86)
